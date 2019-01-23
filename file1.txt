@@ -1,1 +1,6 @@
 Hi i'm a file
+
+apple
+banana
+cherry
+durian
